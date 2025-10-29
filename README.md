@@ -4,7 +4,7 @@ Welcome to my GitHub page! 🚀
 ---
 
 ## 🌟 About Me
-I'm a **computer science enthusiast** with a passion for **developing fun projects** and finding innovative ways to integrate **AI** into everything I create. I hold a **Master’s in Artificial Intelligence**, and I’m eagerly preparing to start my **PhD in Software Engineering and AI**. My journey revolves around exploring the extraordinary potential of **algorithms**, **optimization**, and pushing the boundaries of what's possible with technology.
+I'm a **computer science enthusiast** with a passion for **developing fun projects** and finding innovative ways to integrate **AI** into everything I create. My journey revolves around exploring the extraordinary potential of **algorithms**, **optimization**, and pushing the boundaries of what's possible with technology.
 
 ---
 
