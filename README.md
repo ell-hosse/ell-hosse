@@ -4,33 +4,34 @@ Welcome to my GitHub page! 🚀
 ---
 
 ## 🌟 About Me
-I'm a **computer science enthusiast** with a passion for **developing fun projects** and finding innovative ways to integrate **AI** into everything I create. My journey revolves around exploring the extraordinary potential of **algorithms**, **optimization**, and pushing the boundaries of what's possible with technology.
+I’m a PhD student in Electrical & Computer Engineering at Western University (Ontario), working on the interaction between autonomous vehicles and road agents.
+My research sits at the intersection of machine learning, computer vision, and explainable AI, with a strong focus on designing robust, interpretable, and efficient ML pipelines.
+
+I love building systems that are both mathematically grounded and creatively inspired, because optimizing ML pipelines is my craft, and creativity is my favorite spice.
 
 ---
 
-## 💡 What I Do
-I believe the reason I was born is to someday invent a **fantastic algorithm**. Until then, I:
-- Build **cool projects** and enhance them using **AI**.  
-- Focus on **automation**, **algorithm design**, and making ideas come alive.  
-- Learn and experiment with **optimization techniques**, even when they leave me in tears.  
+## 🛠 Technical Domains
 
----
+**High Focus:**  
+• Machine Learning  
+• Computer Vision  
+• Explainable AI  
+• Python Engineering  
 
-## 🛠️ Skills
-- **Programming Languages**: Python (coding since 2018), JavaScript, Java  
-- **Core Interests**: Algorithm Design, Artificial Intelligence, Optimization Techniques  
-- **Love for Learning**: Always searching for ways to **enhance my projects** using the latest AI tools and methodologies.  
+**Medium Focus:**  
+• Front-End for Research Demos  
+• Robotics Simulation  
 
----
+**Occasional Exploration:**  
+• Causal Modeling  
+• Quantum Computing
 
-## 🌱 Fun Facts
-- 🎧 I can walk for hours listening to **true crime podcasts**.  
-- 🎨 I admire **art and artists**, though I lack artistic skills myself (unless **cooking** counts—I’m a great cook btw!).  
-- 🧠 I obsess over how to optimize **algorithms** and dream of creating something groundbreaking someday.  
 
 ---
 
 ## 📫 Let’s Connect!
+Feel free to reach out. Always happy to discuss research, ideas, or projects.
 - [Email Me](mailto:elahe.s.hs98@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/elaheh-hosseini-5a018a13a/)  
 - [Google Scholar](https://scholar.google.com/citations?user=e_HZ8PQAAAAJ&hl=en)  
