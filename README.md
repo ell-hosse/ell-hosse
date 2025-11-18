@@ -17,7 +17,7 @@ I love building systems that are both mathematically grounded and creatively ins
 • Machine Learning  
 • Computer Vision  
 • Explainable AI  
-• Python Engineering  
+• [Non-]Linear Optimization
 
 **Medium Focus:**  
 • Front-End for Research Demos  
