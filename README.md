@@ -13,7 +13,6 @@ I love building systems that are both mathematically grounded and creatively ins
 ## 🛠 Technical Domains
 
 **High Focus:**  
-• Machine Learning  
 • Computer Vision  
 • Explainable AI  
 • [Non-]Linear Optimization
