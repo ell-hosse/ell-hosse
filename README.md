@@ -4,7 +4,7 @@ Welcome to my GitHub page! 🚀
 ---
 
 ## 🌟 About Me
-I’m a PhD student in Electrical & Computer Engineering at Western University (Ontario. My research sits at the intersection of machine learning, computer vision, and explainable AI, with a strong focus on designing robust, interpretable, and efficient ML pipelines.
+I’m a PhD student in Electrical & Computer Engineering at Western University. My research sits at the intersection of machine learning, computer vision, and explainable AI, with a strong focus on designing robust, interpretable, and efficient ML pipelines.
 
 I love building systems that are both mathematically grounded and creatively inspired, because optimizing ML pipelines is my craft, and creativity is my favorite spice.
 
