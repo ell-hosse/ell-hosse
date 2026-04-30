@@ -12,18 +12,12 @@ I love building systems that are both mathematically grounded and creatively ins
 
 ## 🛠 Technical Domains
 
-**High Focus:**  
+• Theoretical Machine Learning  
 • Computer Vision  
 • Explainable AI  
-• [Non-]Linear Optimization
-
-**Medium Focus:**  
-• Front-End for Research Demos  
-• Robotics Simulation  
-
-**Occasional Exploration:**  
+• [Non-]Linear Optimization  
 • Causal Modeling  
-• Quantum Computing
+• Quantum Computing  
 
 
 ---
