@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ehosse2@uwo.ca)
 ![Location](https://img.shields.io/badge/London,_Canada-gray?style=flat-square)
 
-PhD student in Artificial Intelligence at the University of Western Ontario.
+PhD student in Electrical and Computer Engineering at the University of Western Ontario.
 
 My research is on **trustworthiness and interpretability in autonomous driving systems** and building explainable AI architectures that make a model's reasoning auditable rather than inferred after the fact. Before Western, I worked on medical imaging and physiological signals, including transfer learning for ADHD diagnosis from 3D MRI, radiomics-based prediction in oncology, and cuffless blood pressure estimation from ECG/PPG/IMU data.
 
